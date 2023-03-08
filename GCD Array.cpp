@@ -1,4 +1,4 @@
-class Solution {
+lass Solution {
   public:
 
     int solve(int N, int K, vector<int> &arr) {
